@@ -1,0 +1,100 @@
+
+
+                 
+div#advocacy{
+      background:#000f33;
+			border:1px solid grey;
+			width:600px;
+			margin-left:50px;
+		    border-radius: 25px;
+            font-family:  'Old Standard TT', serif;
+            color:#77CCFF
+}
+div#sidebar {
+  overflow: hidden;
+  background-color: #333;
+  border-radius: 25px;
+ width:600px;
+ margin-left:900px;
+
+}
+
+div#header{
+
+ font-family: 'Old Standard TT', serif;
+ background:#77CCFF;
+ align: center;
+ padding:5px 40px;		
+ opacity:0.8
+}
+
+div#goal{
+ border:1px solid grey;
+			width:600px;
+			margin-left:900px;
+		    border-radius: 25px;
+            font-family:  'Old Standard TT', serif;
+            background:#77CCFF
+
+
+}
+ div#title{
+
+ font-family: 'Old Standard TT', serif;
+ background:#b100cd;
+ align: center;
+ padding:5px 40px;		
+ opacity:0.8 
+ }
+
+
+
+div#SIP{
+      background:#F699CD;
+			border:1px solid grey;
+			width:600px;
+			margin-left:50px;
+		    border-radius: 25px;
+            font-family:  'Old Standard TT', serif;
+            color:#b100cd
+            }
+
+ div#BACS{
+
+ font-family: 'Old Standard TT', serif;
+ background:#8d4004;
+ align: center;                
+ padding:5px 40px;		
+ opacity:0.8 
+    }
+ div#BASS{
+
+ font-family: 'Old Standard TT', serif;
+ background:#ff2c2c;
+ border:1px solid grey;
+			width:600px;
+			margin-left:50px;
+		    border-radius: 25px;
+            font-family:  'Old Standard TT', serif;
+            color:#cc0000
+    }
+
+
+ div#page3{
+ font-family: 'Old Standard TT', serif;
+ background:#990000;
+ border:1px solid grey;
+			width:600px;
+			margin-left:50px;
+		    border-radius: 25px;
+            font-family:  'Old Standard TT', serif;
+            color:black
+    }
+div#MAPEH{
+
+ font-family: 'Old Standard TT', serif;
+ background:#1338be;
+ align: center;
+ padding:5px 40px;		
+ opacity:0.8 
+ }
